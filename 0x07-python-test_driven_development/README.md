@@ -1,0 +1,6 @@
+Project done during Full Stack Software Engineering studies at ALX Holberton School. It aims to learn about docstrings to create and implement tests in Python.
+
+Technologies
+Python Scripts are written with Python 3.8.5
+C files are compiled using gcc 4.8.4
+Tested on Ubuntu 20.04 LTS
